@@ -1,0 +1,7 @@
+{
+  "name": "base_vsl",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
